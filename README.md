@@ -2,6 +2,8 @@
 
 A full-stack project management dashboard built using Next.js, Node.js, Express, PostgreSQL, Prisma, and AWS services. The platform helps teams manage projects, tasks, priorities, timelines, users, and team collaboration through a scalable cloud-ready architecture.
 
+Link : https://project-management-dashboard-three-wheat.vercel.app/
+
 ## Features
 
 - Project and task management
